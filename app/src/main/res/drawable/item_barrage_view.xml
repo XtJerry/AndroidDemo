@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/foot_view"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/barrageTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_so_red_a30_r24"
+        android:gravity="center"
+        android:paddingHorizontal="12dp"
+        android:paddingVertical="5dp"
+        android:text="谢谢老师"
+        android:textColor="#ffffff"
+        android:textSize="13dp" />
+</LinearLayout>
